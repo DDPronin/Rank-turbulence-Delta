@@ -10,7 +10,6 @@ This Research is supported by Scientific Foundation of HSE-University in 2026
 
 The manuscript is currently under review at *Digital Scholarship in the Humanities*.
 
----
 
 ## Overview
 
@@ -24,8 +23,6 @@ The project introduces:
 - robustness analyses of interpretability
 
 The repository supports both exploratory stylometry and attribution experiments.
-
----
 
 ## Repository Structure
 
@@ -56,7 +53,6 @@ Robustness experiments:
   - bootstrap resampling  
   - token removal validation
 
----
 
 ## Data
 
@@ -74,7 +70,6 @@ Expected files:
 - `data/TfMatrixDE.json`, `data/authorsDE.json`  
 - `data/TfMatrixFR.json`, `data/authorsFR.json`
 
----
 
 ### Russian corpus (SOCIOLIT)
 
@@ -92,7 +87,6 @@ Instead, we provide:
 
 This ensures transparency while respecting licensing constraints.
 
----
 
 ## Preprocessing
 
@@ -111,7 +105,6 @@ For Jensen–Shannon Delta:
 
 - apply additive smoothing prior to normalisation
 
----
 
 ## Implemented Methods
 
@@ -123,7 +116,6 @@ For Jensen–Shannon Delta:
 
 All methods support **token-level contribution decomposition**, enabling interpretability.
 
----
 
 ## Reproducibility
 
@@ -152,7 +144,6 @@ pip install -r requirements.txt
 
 To run the `.ipynb` files interactively, use JupyterLab or Notebook (`pip install jupyter`), or open them in an editor that integrates with your Python environment (for example, VS Code / Cursor with the Jupyter extension).
 
----
 
 ## Outputs
 
@@ -164,7 +155,6 @@ The notebooks reproduce all experimental results reported in the paper, includin
 - lexical contribution plots  
 - robustness diagnostics (Jaccard overlap, bootstrap stability)
 
----
 
 ## Contact
 
