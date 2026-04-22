@@ -6,7 +6,7 @@ This repository accompanies the article:
 Dmitry Pronin, Evgeny Kazartsev  
 HSE University 
 
-This Research is supported by Scientific Foundation of HSE-University in 2026 
+This Research is supported by Scientific Foundation of HSE-University in 2026, Faculty of Humanities project «Language, literature and culture in historical and social perspective»
 
 The manuscript is currently under review at *Digital Scholarship in the Humanities*.
 
