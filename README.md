@@ -10,6 +10,8 @@ This Research is supported by Scientific Foundation of HSE-University in 2026
 
 The manuscript is currently under review at *Digital Scholarship in the Humanities*.
 
+You can see our preprint on arXiv: https://arxiv.org/abs/2604.19499
+
 
 ## Overview
 
